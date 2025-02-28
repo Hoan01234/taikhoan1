@@ -1,1 +1,3 @@
-Đây là file text của taikhoan1
+https://github.com/Hoan01234/taikhoan1
+email: phamconghau012@gmail.com	
+username : Hoan01234
